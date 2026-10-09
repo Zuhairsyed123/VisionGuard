@@ -1,0 +1,1 @@
+"""VisionGuard package initialization."""
