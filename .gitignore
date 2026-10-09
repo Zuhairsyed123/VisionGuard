@@ -1,0 +1,26 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Datasets and model checkpoints
+data/
+outputs/
+checkpoints/
+scratch/
+*.pth
+*.pt
+*.onnx
+
+# Virtual environment
+.venv/
+venv/
+env/
+ENV/
+
+# System and IDE
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+.streamlit/
