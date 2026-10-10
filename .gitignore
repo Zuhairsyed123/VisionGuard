@@ -12,6 +12,14 @@ scratch/
 *.pt
 *.onnx
 
+# Testing and Coverage
+.pytest_cache/
+.coverage
+htmlcov/
+*.egg-info/
+dist/
+build/
+
 # Virtual environment
 .venv/
 venv/
